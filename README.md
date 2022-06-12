@@ -6,15 +6,15 @@ column:
 - `use_name` : feature of user
 - `call_duration`: an integer describing the call time in milliseconds
 ### main.py:
-contains the program's api
+- contains the program's api
 ### test.api:
-test api from `main.py`
+- test api from `main.py`
 ### dockerfile
-create docker image
+- create docker image
 ### requirement.txt
-libraries to install and run in dockerfile
+- libraries to install and run in dockerfile
 ### controllDB:
-delete data in database if need
+- delete data in database if need
 
 ### 2. Clone repository
 First of all, you need to download the repository. You can either run the script below on the command-line or terminal:
